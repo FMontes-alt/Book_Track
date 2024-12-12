@@ -27,7 +27,7 @@ Entonces, en la base de datos, esta nueva entrada se vería como una nueva fila 
 
 ## Paso 2: ¿Cómo se Realiza Esta Acción en la Base de Datos?
 
-Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **intrucción** llamada "INSERT", incluye toda la información del libro que estamos agregando. La intrucción se mostrara de manera que un desplegable muestre cada columna de la tabla anterio al **usuario** en cuestion y sea verificada por un **moderador** . Dependiendo si la categoria de estado se le dará mayo o menor prioridad (Leido > leyendo > pendiente).
+Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **intrucción** llamada "INSERT", incluye toda la información del libro que estamos agregando. La intrucción se mostrara de manera que un desplegable muestre cada columna de la tabla anterio al **usuario** en cuestion y sea verificada por un **moderador** . Dependiendo si la categoria de estado se le dará mayor o menor prioridad (Leido > leyendo > pendiente).
 
 ## Instrucciones para Registrar un Libro en el ejecutable INSERT
 
