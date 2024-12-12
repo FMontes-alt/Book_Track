@@ -27,4 +27,11 @@ Entonces, en la base de datos, esta nueva entrada se vería como una nueva fila 
 
 ## Paso 2: ¿Cómo se Realiza Esta Acción en la Base de Datos?
 
-Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **instrucción** llamada "INSERT", incluye toda la información del libro que estamos agregando. La intrucción se mostrara de manera que un desplegable muestre cada columna de la tabla anterio al **usuario** en cuestion y sea verificada por un **moderador** . Dependiendo si la categoria de estado se le dará mayo o menor prioridad (Leido > leyendo > pendiente).
+Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **intrucción** llamada "INSERT", incluye toda la información del libro que estamos agregando. La intrucción se mostrara de manera que un desplegable muestre cada columna de la tabla anterio al **usuario** en cuestion y sea verificada por un **moderador** . Dependiendo si la categoria de estado se le dará mayo o menor prioridad (Leido > leyendo > pendiente).
+
+## Instrucciones para Registrar un Libro en el ejecutable INSERT
+
+1. **Especifica la información básica**: Completa los campos como el título, autor, género y año de publicación.
+2. **Selecciona el estado del libro**: Elige entre "Leído", "Leyendo" o "Pendiente".
+3. **Agrega una reseña**: Escribe una breve reseña personal sobre el libro (opcional).
+4. **Guardar y organizar**: Guarda esta información en tu registro de libros.
