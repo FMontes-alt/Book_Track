@@ -1,6 +1,6 @@
 # 📚 Carpeta de Usuario
 
-Esta carpeta contiene la información y estructura relacionada con los perfiles de los usuarios del sistema. Cada usuario tiene un perfil único donde se almacenan sus detalles personales y preferencias.
+Esta carpeta contiene la información y estructura relacionada con los perfiles de los usuarios del sistema. Cada usuario tiene un perfil único donde se almacenan sus detalles personales y preferencias. Cada perfil se creara con un archivo.md en el que se expecifique el usuario.
 
 ## 👤 Estructura de Usuario
 
