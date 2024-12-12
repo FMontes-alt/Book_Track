@@ -35,7 +35,7 @@ Estructura:<br>
 │   ├── 📄 detectives_en_accion.md<br>
 │   ├── 📄 amores_literarios.md<br>
 │   ├── 📄 README_CLUBS.md<br>
-└── 📁 control_usuarios/<br>
+   📁 control_usuarios/<br>
     ├── 📄 registro_y_verificacion.md<br>
     ├── 📄 roles_y_participacion.md<br>
     ├── 📄 seguimiento_actividad.md<br>
