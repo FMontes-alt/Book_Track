@@ -34,4 +34,4 @@ Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **intrucc
 1. **Especifica la información básica**: Completa los campos como el título, autor, género y año de publicación.
 2. **Selecciona el estado del libro**: Elige entre "Leído", "Leyendo" o "Pendiente".
 3. **Agrega una reseña**: Escribe una breve reseña personal sobre el libro (opcional).
-4. **Guardar y organizar**: Guarda esta información en tu registro de libros.
+4. **Guardar y organizar**: Guarda esta información en el registro de libros.
