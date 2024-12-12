@@ -20,13 +20,13 @@ Requisitos no funcionales:
 - Uso de GitHub Projects para gestionar tareas.
 - Accesibilidad para usuarios con conocimientos básicos.
 
-Estructura:
-📁 BookTrack/
-├── 📁 usuarios/
-│   ├── 📄 usuario1.md
-│   ├── 📄 usuario2.md
-│   ├── 📄 README_USUARIO.md
-├── 📁 clubs/
-│   ├── 📄 club1.md
-│   ├── 📄 club2.md
-│   ├── 📄 README_CLUBS.md
+Estructura:<br>
+📁 BookTrack/<br>
+├── 📁 usuarios/<br>
+│   ├── 📄 usuario1.md<br>
+│   ├── 📄 usuario2.md<br>
+│   ├── 📄 README_USUARIO.md<br>
+├── 📁 clubs/<br>
+│   ├── 📄 club1.md<br>
+│   ├── 📄 club2.md<br>
+│   ├── 📄 README_CLUBS.md<br>
