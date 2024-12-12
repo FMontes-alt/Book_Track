@@ -1,25 +1,5 @@
 # Explicación de Cómo Introducir un Libro en una Base de Datos
-
-## ¿Qué es una Base de Datos?
-
-Una base de datos es como un archivo muy organizado, donde podemos guardar información de manera que sea fácil de buscar, modificar o eliminar cuando sea necesario. En lugar de tener una hoja de cálculo gigante o papeles desordenados, la base de datos organiza todo en **"tablas"**.
-
----
-
-## Paso 1: Preparar la Tabla para Guardar los Libros
-
-En la base de datos, necesitamos crear una **tabla** que sea específica para almacenar los datos de los libros. Imagina que cada fila de la tabla es un libro y cada columna es un detalle del libro (como el título, el autor, etc.).
-
-La tabla podría llamarse **Libros**, y tendría varias **columnas** o **campos** donde guardaremos la información:
-
-| ID  | Título              | Autor              | Género        | Año de publicación | Estado   | Reseña                            |
-|-----|---------------------|--------------------|---------------|--------------------|----------|-----------------------------------|
-| 1   | El Gran Gatsby      | F. Scott Fitzgerald| Ficción       | 1925               | Leyendo  | "Una obra maestra de la literatura." |
-| 2   | Matar a un Ruiseñor | Harper Lee         | Drama         | 1960               | Leído    | "Muy emotiva y conmovedora."        |
-
----
-
-## Paso 2: Insertar un Libro Nuevo
+## Paso 1: Insertar un Libro Nuevo
 
 Para agregar un libro a esta tabla, hacemos lo siguiente:
 
@@ -47,4 +27,4 @@ Entonces, en la base de datos, esta nueva entrada se vería como una nueva fila 
 
 ## Paso 3: ¿Cómo se Realiza Esta Acción en la Base de Datos?
 
-Cuando queremos agregar un libro, la base de datos ejecuta una **instrucción** o **consulta** llamada "INSERT" para insertar la nueva fila en la tabla. Esta consulta incluye toda la información del libro que estamos agregando.
+Cuando queremos agregar un libro, a la hora de serlecionar ejecuta una **instrucción** llamada "INSERT", incluye toda la información del libro que estamos agregando. La intrdocucción de los datos se motrara de manera que un desplegable muestre cada columna de la al **usuario** en cuestion y sea verificada por un **moderador**
