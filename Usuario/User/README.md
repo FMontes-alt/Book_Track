@@ -26,19 +26,8 @@ Cada usuario tendrá la siguiente información asociada:
 
 Dentro de esta carpeta, se pueden incluir los siguientes archivos asociados al perfil de cada usuario:
 
-- `user_data.json`: Contiene los datos del perfil en formato JSON.
-- `profile_picture.png`: (si existe) Foto de perfil del usuario.
+- `foto.png`: (si existe) Foto de perfil del usuario.
 
 ## 🚀 Uso
 
 Esta carpeta es utilizada para gestionar la información personal de los usuarios. Los datos se procesan para permitir la personalización del perfil y la gestión de libros, preferencias y configuraciones del sistema.
-
-## 🛠️ Tecnologías Utilizadas
-
-- **Frontend:** (Especificar tecnologías utilizadas)
-- **Backend:** (Especificar tecnologías utilizadas)
-- **Base de datos:** (Si se usa base de datos, especificar)
-
-## 📑 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas mejorar esta estructura, por favor realiza un fork del repositorio y envía un pull request.
