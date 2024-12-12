@@ -21,12 +21,27 @@ Requisitos no funcionales:
 - Accesibilidad para usuarios con conocimientos básicos.
 
 Estructura:<br>
-📁 BookTrack/<br>
-├── 📁 usuarios/<br>
-│   ├── 📄 usuario1.md<br>
-│   ├── 📄 usuario2.md<br>
-│   ├── 📄 README_USUARIO.md<br>
-├── 📁 clubs/<br>
-│   ├── 📄 club1.md<br>
-│   ├── 📄 club2.md<br>
-│   ├── 📄 README_CLUBS.md<br>
+📁 BookTracking/
+├── 📁 usuarios/
+│   ├── 📄 usuario01.md
+│   ├── 📄 usuario02.md
+│   ├── 📄 usuario03.md
+│   ├── 📄 usuario04.md
+│   ├── 📄 usuario05.md
+│   ├── 📄 usuario06.md
+│   ├── 📄 README_USUARIO.md
+├── 📁 clubs/
+│   ├── 📄 lectores_viajeros.md
+│   ├── 📄 detectives_en_accion.md
+│   ├── 📄 amores_literarios.md
+│   ├── 📄 README_CLUBS.md
+└── 📁 control_usuarios/
+    ├── 📄 registro_y_verificacion.md
+    ├── 📄 roles_y_participacion.md
+    ├── 📄 seguimiento_actividad.md
+    ├── 📄 gestion_preferencias.md
+    ├── 📄 normas_y_conflictos.md
+    ├── 📄 analisis_actividad.md
+    ├── 📄 seguridad_y_eliminacion.md
+    ├── 📄 comunicacion_y_soporte.md
+    └── 📄 README_CONTROL_USUARIOS.md
