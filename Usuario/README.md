@@ -24,5 +24,5 @@ Los usuarios podrán registrar tanto los libros que han leído como los que tien
 3. **🖋️ Modificación:** El usuario puede editar o eliminar libros de su lista en cualquier momento.
 
 ## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor realiza un fork 🍴 y envía un pull request 🔄.
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor realiza y envía un pull request 🔄.
 
