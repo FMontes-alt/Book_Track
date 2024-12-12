@@ -1,7 +1,7 @@
 
 # Proyecto BookTrack 📚
 
-Bienvenido al repositorio BookTrack, este sitema se encargara de los siguiente:
+Bienvenido al repositorio BookTrack, este sistema se encargara de los siguiente:
 
 Requisitos funcionales:
 - Registro y gestión de usuarios con perfiles y listas de libros.
