@@ -21,27 +21,27 @@ Requisitos no funcionales:
 - Accesibilidad para usuarios con conocimientos básicos.
 
 Estructura:<br>
-📁 BookTracking/
-├── 📁 usuarios/
-│   ├── 📄 usuario01.md
-│   ├── 📄 usuario02.md
-│   ├── 📄 usuario03.md
-│   ├── 📄 usuario04.md
-│   ├── 📄 usuario05.md
-│   ├── 📄 usuario06.md
-│   ├── 📄 README_USUARIO.md
-├── 📁 clubs/
-│   ├── 📄 lectores_viajeros.md
-│   ├── 📄 detectives_en_accion.md
-│   ├── 📄 amores_literarios.md
-│   ├── 📄 README_CLUBS.md
-└── 📁 control_usuarios/
-    ├── 📄 registro_y_verificacion.md
-    ├── 📄 roles_y_participacion.md
-    ├── 📄 seguimiento_actividad.md
-    ├── 📄 gestion_preferencias.md
-    ├── 📄 normas_y_conflictos.md
-    ├── 📄 analisis_actividad.md
-    ├── 📄 seguridad_y_eliminacion.md
-    ├── 📄 comunicacion_y_soporte.md
-    └── 📄 README_CONTROL_USUARIOS.md
+📁 BookTracking/<br>
+├── 📁 usuarios/<br>
+│   ├── 📄 usuario01.md<br>
+│   ├── 📄 usuario02.md<br>
+│   ├── 📄 usuario03.md<br>
+│   ├── 📄 usuario04.md<br>
+│   ├── 📄 usuario05.md<br>
+│   ├── 📄 usuario06.md<br>
+│   ├── 📄 README_USUARIO.md<br>
+├── 📁 clubs/<br>
+│   ├── 📄 lectores_viajeros.md<br>
+│   ├── 📄 detectives_en_accion.md<br>
+│   ├── 📄 amores_literarios.md<br>
+│   ├── 📄 README_CLUBS.md<br>
+└── 📁 control_usuarios/<br>
+    ├── 📄 registro_y_verificacion.md<br>
+    ├── 📄 roles_y_participacion.md<br>
+    ├── 📄 seguimiento_actividad.md<br>
+    ├── 📄 gestion_preferencias.md<br>
+    ├── 📄 normas_y_conflictos.md<br>
+    ├── 📄 analisis_actividad.md<br>
+    ├── 📄 seguridad_y_eliminacion.md<br>
+    ├── 📄 comunicacion_y_soporte.md<br>
+    └── 📄 README_CONTROL_USUARIOS.md<br>
