@@ -33,15 +33,14 @@ Estructura:<br>
 ├── 📁 clubs/<br>
 │   ├── 📄 lectores_viajeros.md<br>
 │   ├── 📄 detectives_en_accion.md<br>
-│   ├── 📄 amores_literarios.md<br>
 │   ├── 📄 README_CLUBS.md<br>
-   📁 control_usuarios/<br>
-    ├── 📄 registro_y_verificacion.md<br>
-    ├── 📄 roles_y_participacion.md<br>
-    ├── 📄 seguimiento_actividad.md<br>
-    ├── 📄 gestion_preferencias.md<br>
-    ├── 📄 normas_y_conflictos.md<br>
-    ├── 📄 analisis_actividad.md<br>
-    ├── 📄 seguridad_y_eliminacion.md<br>
+│   ├── 📁 control_usuarios/<br>
+│   ├── 📄 registro_y_verificacion.md<br>
+│   ├── 📄 roles_y_participacion.md<br>
+│   ├── 📄 seguimiento_actividad.md<br>
+│   ├── 📄 gestion_preferencias.md<br>
+│   ├── 📄 normas_y_conflictos.md<br>
+│   ├── 📄 analisis_actividad.md<br>
+│   ├── 📄 seguridad_y_eliminacion.md<br>
     ├── 📄 comunicacion_y_soporte.md<br>
     └── 📄 README_CONTROL_USUARIOS.md<br>
